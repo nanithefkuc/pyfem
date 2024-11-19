@@ -1,0 +1,24 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Virtual Environments
+venv/
+*.venv
+.env
+
+# Virtual Environment files
+Include/
+Lib/
+Scripts/
+share/
+
+# Config files
+*.cfg
+
+# IDE related
+.vscode
+
+# Logs and databases
+*.log
+*.sqlite
